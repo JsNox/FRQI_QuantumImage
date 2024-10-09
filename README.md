@@ -4,12 +4,12 @@
 
 Se trabaja con la version de Python 3.11.9 y los siguientes requerimientos
 ------------------------- --------------
-anyio                     4.3.0
-appnope                   0.1.4
-argon2-cffi               23.1.0
-argon2-cffi-bindings      21.2.0
-arrow                     1.3.0
-asttokens                 2.4.1
+* anyio                     4.3.0
+* appnope                   0.1.4
+* argon2-cffi               23.1.0
+* argon2-cffi-bindings      21.2.0
+* arrow                     1.3.0
+* asttokens                 2.4.1
 async-lru                 2.0.4
 attrs                     23.2.0
 Babel                     2.15.0
